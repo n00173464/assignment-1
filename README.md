@@ -68,7 +68,7 @@ For Moon: Use a separate Set Actor Rotation connected to Rotation Y + Moon Timel
 
 <p>Created a shot explosion effect that activates when the ENTER key is pressed</p>
 
-<h3>Task Four: Collisions
+<h3>Task Four: Collisions</h3>
 
   <img width="1379" alt="assignment one event graph sphere" src="https://github.com/user-attachments/assets/c0c89f93-b1e5-4a49-9b5b-1e7be884a7dc">
 

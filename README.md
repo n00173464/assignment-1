@@ -74,6 +74,7 @@ For Moon: Use a separate Set Actor Rotation connected to Rotation Y + Moon Timel
 
 <p> Turned on Simulation Generates Hit Event on Sphere. Cubes gets destroyed when the Sphere collides with it </p>
 
+
   ![paddlebp](https://github.com/user-attachments/assets/4627f971-4e9a-499b-9295-e93372bd3514)
   
 <p>
@@ -84,12 +85,12 @@ For Moon: Use a separate Set Actor Rotation connected to Rotation Y + Moon Timel
 </p>
 
 
-<h3>Glowing material</h3>
+<h3>Task Five: Glowing material</h3>
 
 ![assignment one light material graph](https://github.com/user-attachments/assets/b7ec1f52-eefe-43a8-847f-9c9d3ee9ab19)
 
 
-<p>Task Five: Created a glowing sphere
+<p> Created a glowing sphere
   
   Reference: Emissive Material in Unreal Engine 5 - Glow | Neon Effect Tutorial https://www.youtube.com/watch?v=WCmq4e6vacc
 </p>

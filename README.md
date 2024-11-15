@@ -30,19 +30,27 @@ MoonLight (of type Directional Light)
 
 Add a Timeline Component: Click ‘Add Component’ and search for "Timeline". Name it "SunMoonTimeline".
 Double-click on the Timeline component
-In the Timeline editor, click "Add Float Track".
+In the Timeline editor, add two float track.
 
-Rename the track (e.g., "SunRotation").
+Rename track one SunRotation.
+Rename track two MoonRotation.
 
 Set the length of the Timeline: Adjust the total length to synchronize with your desired day-night cycle, I want it to be 15 seconds long a complete cycle.
+
 Add Keyframes: Set keyframes to set rotation angles for the sun and moon over a specified time:
 
-Sun
+<ul>
+  <li>Sun
 Time 0s: Value at 0.0 (Sun at its highest point).
+
 Time 15s: Value at 360.0 (Sun completes a full rotation).
-Moon
+</li>
+
+<li> Moon
 Time 0s: Value at 360 (Moon would rotate the other way).
-Time 15s: Value at 0.
+
+Time 15s: Value at 0.</li>
+</ul>
 
 Setting Up the Blueprint Logic
 

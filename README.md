@@ -2,7 +2,7 @@
 
 ![assignment one](https://github.com/user-attachments/assets/07e2c0f9-d101-4b44-b0b9-484df276c3b8)
 
-<h3>Using timelines to effect rotation</h3>
+<h3>Task one :Using timelines to effect rotation</h3>
 
 ![assignment one day night cycle timeline](https://github.com/user-attachments/assets/f3d5e83d-a319-475f-b553-a0676f69673e)
 
@@ -61,12 +61,33 @@ For Moon: Use a separate Set Actor Rotation connected to Rotation Y + Moon Timel
 
 </p>
 
+<h3>Task Two: Shot Explosion</h3>
+
+<img width="1383" alt="assignment one event graph bp shot" src="https://github.com/user-attachments/assets/0fe5165c-dc24-423a-9cdc-4bc3bc44604d">  
 <img width="1339" alt="assignment one event graph" src="https://github.com/user-attachments/assets/75442fcb-f5e5-4406-b967-a6bc333707b1">
 
-<img width="1383" alt="assignment one event graph bp shot" src="https://github.com/user-attachments/assets/0fe5165c-dc24-423a-9cdc-4bc3bc44604d">
+<p>Created a shot explosion effect that activates when the ENTER key is pressed</p>
 
-![paddlebp](https://github.com/user-attachments/assets/4627f971-4e9a-499b-9295-e93372bd3514)
+<h3>Task Four: Collisions
 
-<img width="1379" alt="assignment one event graph sphere" src="https://github.com/user-attachments/assets/c0c89f93-b1e5-4a49-9b5b-1e7be884a7dc">
+  <img width="1379" alt="assignment one event graph sphere" src="https://github.com/user-attachments/assets/c0c89f93-b1e5-4a49-9b5b-1e7be884a7dc">
+
+<p>Turned on Simulation Generates Hit Event on Sphere. Cubes gets destroyed when the Sphere collides with it</p>
+
+  ![paddlebp](https://github.com/user-attachments/assets/4627f971-4e9a-499b-9295-e93372bd3514)
+  
+<p>Added a rotating paddle that destroys sphere.
+
+Reference: Collisions and Physics with Blueprints in UE https://www.youtube.com/watch?v=by31O0Vc3cY
+</p>
+
+
+<h3>Glowing material</h3>
 
 ![assignment one light material graph](https://github.com/user-attachments/assets/b7ec1f52-eefe-43a8-847f-9c9d3ee9ab19)
+
+
+<p>Created a glowing sphere
+  
+  Reference: Emissive Material in Unreal Engine 5 - Glow | Neon Effect Tutorial https://www.youtube.com/watch?v=WCmq4e6vacc
+</p>
